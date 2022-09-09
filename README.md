@@ -1,6 +1,5 @@
 - 👋 Hi, I’m MD Shamiul Islam 
-- 👀 I’m interested in ... Artificial Intelegience ML,DL,CNN,Apps Development,Robotics         ![FB_IMG_1631593169193](https://user-images.githubusercontent.com/77440860/189392413-2f57c5c7-d6d2-4afd-8574-6812096777ed.jpg)
-
+- 👀 I’m interested in ... Artificial Intelegience ML,DL,CNN,Apps Development,Robotics         
 - 🌱 I’m currently learning ...Java ,Python ,Android Apps Development
 - 📫 How to reach me email: shamiulislam693@gmail.com
 - 📫 How to reach me facebook:https://www.facebook.com/samiulislam.693
@@ -39,5 +38,7 @@ Extra Curriculum Activities
 9. Founder & Vice President at Greenlife Education and Social Development Organization (GESDO) 
 10. Member of LEDP ICT division
 11. Member of Different Hacker and Cracker Community in Online Platform.
+![FB_IMG_1631593169193](https://user-images.githubusercontent.com/77440860/189392515-ec559032-f008-4633-9807-863eb1ae7e4e.jpg)
+
 
 
