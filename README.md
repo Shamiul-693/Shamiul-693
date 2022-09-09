@@ -13,16 +13,16 @@ Content writing, Robotics
 
 Achievement 
 Topic: 
-• Certificate of achievement ‘Young Bangla- Bicchuron’ project an innovative idea 
+1. Certificate of achievement ‘Young Bangla- Bicchuron’ project an innovative idea 
 competition on Renewable energy.
-• Certificate of achievement ‘ROBO MANIA’ project an innovative idea competition on 
+2. Certificate of achievement ‘ROBO MANIA’ project an innovative idea competition on 
 Intra University Robotics competition.
-• Certificate of achievement ‘Bangladesh Enterprise Institute (BEI) for
+3. Certificate of achievement ‘Bangladesh Enterprise Institute (BEI) for
 ’ YOUTH FORUM FOR BUILDING SOCIAL RESILIENCE (YFBSR)
-• Certificate of achievement ‘Programming contest’ on intra university programming 
+4. Certificate of achievement ‘Programming contest’ on intra university programming 
 contest.
-• Certificate of achievement” Certified Ethical Hacker” by Team Matrix.
-• Certificate of achievement” Public Speaking Fundamentals” by Robi 10 Minute School 
+5. Certificate of achievement” Certified Ethical Hacker” by Team Matrix.
+6. Certificate of achievement” Public Speaking Fundamentals” by Robi 10 Minute School 
 through Muktopaath.
 
 Extra Curriculum Activities 
