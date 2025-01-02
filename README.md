@@ -8,9 +8,7 @@
 -   Fun fact i am afriad of injection
 
 Skill:
-C, C++, HTML, CSS, C#, JAVA, Python,Git-Hub, Database, Apps Development , Microsoft word, Microsoft Excel,  Microsoft PowerPoint, blogger, Digital marketer, 
-Content writing, Robotics
-
+C, C++, HTML, CSS, Python, Machine Learning, Deep Learning
 Achievement 
 Topic: 
 1. Certificate of achievement ‘Young Bangla- Bicchuron’ project an innovative idea 
