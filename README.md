@@ -9,6 +9,7 @@
 
 Skill:
 C, C++, HTML, CSS, Python, Machine Learning, Deep Learning
+
 Achievement 
 Topic: 
 1. Certificate of achievement ‘Young Bangla- Bicchuron’ project an innovative idea 
